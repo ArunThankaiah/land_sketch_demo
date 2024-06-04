@@ -2686,14 +2686,14 @@ img.mfp-img {
   color: #fff;
 }
 
-.testimonial__author:after {
+/* .testimonial__author:after {
   content: "/";
   margin: 0 5px 0 9px;
 }
 
 .testimonial__company {
   color: #EE2024;
-}
+} */
 
 .testimonial__body {
   margin-top: 24px;
