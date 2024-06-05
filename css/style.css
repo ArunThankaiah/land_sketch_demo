@@ -6675,7 +6675,7 @@ dd {
 
 /* Section Dividers
 -------------------------------------------------------*/
-.top-divider {
+/* .top-divider {
   border-top: 1px solid #e5e5e5;
 }
 
@@ -6685,11 +6685,25 @@ dd {
 .map-contact-address{
   margin-top: 2rem;
 }
+.google-map-contact .contact__items  {
+ padding-bottom: 2rem;
+}
 .map-contact-address-two{
   margin-top: 2rem;
 }
-.google-map-contact{
-  padding: 0px 4rem;
+ */
+ .section-wrap .container .address_icons{
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+ }
+ .section-wrap .container .address_icons .social{
+  text-align: center;
+  color: #c8232c;
+  font-size: 1.5rem;
+ }
+ .google-map-contact{
+  padding: 2rem 4rem;
 }
-
 /*# sourceMappingURL=style.css.map */
